@@ -27,7 +27,8 @@
   "license": "ISC",
   "dependencies": {
     "ascallback": "^1.1.1",
-    "knex": "3"
+    "knex": "3",
+    "util": "^0.12.5"
   },
   "devDependencies": {
     "eslint": "^8.52.0",
